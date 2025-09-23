@@ -8,8 +8,8 @@ Built using ReactJS with a frontend UI + backend server with MongoDB.
 
 - Real-time chats between users  
 - Separate frontend & backend codebases  
-- User interface built with modern JavaScript + HTML + CSS  
-- Backend server for chat handling (e.g. via WebSocket or HTTP)  
+- User interface built with modern ReactJS 
+- Backend server for chat handling (e.g. via WebSocket and MongoDB)  
 - Basic styling and UX  
 
 ## Folder Structure
