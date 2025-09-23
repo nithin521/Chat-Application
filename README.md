@@ -12,21 +12,15 @@ Built using ReactJS with a frontend UI + backend server with MongoDB.
 - Backend server for chat handling (e.g. via WebSocket or HTTP)  
 - Basic styling and UX  
 
----
-
 ## Folder Structure
 
 Chat-Application/
-├── backend/ # Backend server (Node.js, APIs, database, etc.)
-├── frontend/ # UI code (HTML, CSS, JS)
-├── package.json # Project metadata & scripts
-├── .gitignore # Files/folders to ignore in Git
-└── README.md # This file
+- ├── backend/ # Backend server (Node.js, APIs, database, etc.)
+- ├── frontend/ # UI code (HTML, CSS, JS)
+- ├── package.json # Project metadata & scripts
+- ├── .gitignore # Files/folders to ignore in Git
+- └── README.md # This file
 
-yaml
-Copy code
-
----
 
 ## Requirements
 
