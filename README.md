@@ -66,15 +66,15 @@ UI is responsive and easy to use.
 
 ## API Endpoints
 Method	Endpoint	Description
-GET	/status	Check server status
-POST	/login	User login
-POST	/register	Register new user
-GET	/messages	Fetch message history
-POST	/messages/send	Send a new message
+- GET	/status	Check server status
+- POST	/login	User login
+- POST	/register	Register new user
+- GET	/messages	Fetch message history
+- POST	/messages/send	Send a new message
 
 ## Future Improvements
-Persist chat history (in database)
-Typing indicators
-Online/offline status for users
-Improved UI/UX (mobile responsive, themes)
-Deployment setup (Docker, cloud hosting, etc.)
+- Persist chat history (in database)
+- Typing indicators
+- Online/offline status for users
+- Improved UI/UX (mobile responsive, themes)
+- Deployment setup (Docker, cloud hosting, etc.)
