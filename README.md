@@ -78,3 +78,5 @@ Method	Endpoint	Description
 - Online/offline status for users
 - Improved UI/UX (mobile responsive, themes)
 - Deployment setup (Docker, cloud hosting, etc.)
+
+---
