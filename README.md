@@ -33,31 +33,30 @@ Chat-Application/
 ## Getting Started
 
 1. Clone the repo:
-   git clone https://github.com/nithin521/Chat-Application.git
-   cd Chat-Application
+- git clone https://github.com/nithin521/Chat-Application.git
+- cd Chat-Application
    
 ## Install dependencies:
 
-cd backend
-npm install
-cd ../frontend
-npm install
+- cd backend
+- npm install
+- cd ../frontend
+- npm install
 
 ## Run the backend server:
-cd backend
-npm start
+- cd backend
+- npm start
 
 ## Run the frontend:
-cd frontend
-npm start
+- cd frontend
+- npm start
 
 Open your browser and navigate to the frontend URL (commonly http://localhost:3000) to start chatting.
 
 ## Configuration
 In the backend folder, set environment variables (if required), e.g.:
-env
-PORT=5000
-DATABASE_URL=your_database_connection_string
+- PORT=5000
+- DATABASE_URL=your_database_connection_string
 
 In the frontend folder, configure API endpoints (in JS / config) to point to the backend server URL.
 Usage
